@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
         color: colors.white,
         fontFamily: fonts.heading,
         alignContent: 'center',
-        paddingLeft: 85
+        paddingLeft: 90
     }
 
 })
